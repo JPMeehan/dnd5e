@@ -34,6 +34,7 @@
 - [Hooks](Hooks.md)
 - [Journal Pages](Journal-Pages.md)
 - Module Development
+  - [Linking Class Spells](Linking-Class-Spells.md)
   - [Module Registration](Module-Registration.md)
   - [System HTML](System-HTML.md)
   - [Table of Contents](Table-of-Contents.md)
@@ -41,7 +42,6 @@
 - Tutorials
   - [Custom Classes](Custom-Class-Advancement.md)
   - [Custom Races](Custom-Race-Tutorial.md)
-  - [Linking Class Spells](Linking-Class-Spells.md)
   - [Modifying Your Game with World Scripts](Modifying-Your-Game-with-Scripts.md)
 
 This wiki accepts community updates. Check out the [Contributing to the Wiki](Contributing-to-the-Wiki.md) guide for information on how to make a change.
